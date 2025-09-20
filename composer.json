@@ -1,12 +1,12 @@
 {
-    "name": "empresa/sistema-boletos",
+    "name": "ferdinando/sistema-boletos",
     "description": "Sistema de geração de boletos bancários com POO",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Desenvolvedor",
-            "email": "dev@empresa.com"
+            "name": "Drake",
+            "email": "travis@scoot.com"
         }
     ],
     "require": {
